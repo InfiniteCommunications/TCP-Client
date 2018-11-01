@@ -1,0 +1,24 @@
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Client\IMC.Client\bin\Debug\IMC.Client.exe.config
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Client\IMC.Client\bin\Debug\IMC.Client.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Client\IMC.Client\bin\Debug\IMC.Client.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Client\IMC.Client\obj\Debug\IMC.Client.csproj.CoreCompileInputs.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Client\IMC.Client\obj\Debug\IMC.Client.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Client\IMC.Client\obj\Debug\IMC.Client.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\IMC.Client.exe.config
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\IMC.Client.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\IMC.Client.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\EasyModbus.dll
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.csprojAssemblyReference.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.csproj.CoreCompileInputs.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.csproj.CopyComplete
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.pdb
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\IMC.Client.exe.config
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\IMC.Client.exe
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\IMC.Client.pdb
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\bin\Debug\EasyModbus.dll
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.exe
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Client\IMC.Client\obj\Debug\IMC.Client.pdb
